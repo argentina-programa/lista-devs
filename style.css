@@ -29,3 +29,22 @@ h1 {
   height: auto;
   float: right;
 }
+#vivi {
+  background-size: cover;
+  background-color: rgb(255, 67, 67);
+  font-size: 3vw;
+  border-radius:10px 30px; /* para cambiar la forma del borde */
+  display:block; 
+  height: auto;
+  font-family: Arial, Helvetica, sans-serif;  /* para cambiar el tipo de letra */
+  padding: 1px;  /* para que todo no quede pegado al borde */
+}
+#imagenvivi {
+  max-width: 15%; 
+  display:block; 
+  height: auto;
+  float: right;
+  border: 1px solid white;  /* para cambiar ponerle un borde con color a la imagen */
+  margin: 4%;  /* para que la imagen no quede muy pegada a todo */
+}
+
