@@ -1,23 +1,31 @@
+
 body {
+  font-size: 2em;
   background-color: khaki;
 }
 h1 {
   margin:auto;
   background-color: rgb(230, 131, 255);
-  font-size: 40px;
+  font-size: 3vw;
+  display:block; 
+  height: auto;
 }
 #ivan {
   background-size: cover;
   background-color: rgb(255, 168, 55);
-  font-size: 40px;
+  font-size: 3vw;
+  display:block; 
+  height: auto;
 }
 #imagenivan {
-  width:14.6%;
-  float:right;
-  background-color: rgb(255, 168, 55);
+  max-width: 14.8%; 
+  display:block; 
+  height: auto;
+  float: right;
 }
 #imagencarme {
-  width:12%;
-  float:right;
-  background-color: rgb(255, 168, 55);
+  max-width: 13.7%; 
+  display:block; 
+  height: auto;
+  float: right;
 }
