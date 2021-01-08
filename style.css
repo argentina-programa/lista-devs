@@ -66,4 +66,23 @@ h1 {
   border: 1px solid white;  /* para cambiar ponerle un borde con color a la imagen */
   margin: 4%;  /* para que la imagen no quede muy pegada a todo */
 }
-
+#euge{
+  background-size: cover;
+  background-color: #a7e812;
+  font-size: 3vw;
+  border-radius: 10px 30px;
+  display: block;
+  height: auto;
+  font-family: Times New Roman;
+  padding: 1px; 
+  margin-block: 2%;
+}
+#imageneuge{
+ max-width:14.8%;
+ display: block;
+ height: auto;
+ float: right;
+ border: 1px solid white;
+ margin-right: 2%;
+ border-radius: 10px;
+}
