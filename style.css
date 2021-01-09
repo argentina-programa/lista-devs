@@ -87,3 +87,49 @@ h1 {
  margin-right: 2%;
  border-radius: 10px;
 }
+
+#fede{
+  /*ESTILOS DIV CONTENEDOR*/
+  background-size: cover;
+  background-color: rgb(255, 168, 55);
+  border-radius: 20px;
+  font-size: 3vw;
+  display:block; 
+  height: auto;
+  font-family: 'Indie Flower', cursive;
+  box-shadow: 1px 3px rgba(0,0,0,0.3);  
+}
+
+#imagenfede{
+  /*ESTILOS IMAGEN*/
+  max-width:14.8%;
+  display: block;
+  height: 100px;
+  float: right;
+  border: 1px solid white;
+  margin-right: 2%;
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+#contactofede li{
+  /* ESTILOS LISTA DE CONTACTO */
+  display: inline-block;
+  list-style-type: none;
+  padding: 10px 40px;
+}
+
+#contactofede a{
+  /* DARLE ESTILOS A LOS ENLACES DE CONTACTO */
+  text-decoration: none;
+  color: black;
+}
+#contactofede a:hover{
+  /* DARLE ESTILOS A LOS ENLACES CUANDO EL PUNTERO PASA SOBRE ELLOS */
+  color: white;
+}
+#contactofede img{
+  /* ESTABLECIENDO UNA ALTURA Y UN ANCHO PARA LOS ICONOS DE REDES */
+  height: 15px;
+  width: 15px;
+}
