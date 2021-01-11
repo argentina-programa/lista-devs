@@ -208,3 +208,24 @@ h1 {
   border: 1px solid white; 
   margin: 4%;  
 }
+
+#caro {
+  background-size: cover;
+  background-color: rgb( 222, 168, 186 );
+  font-size: 3vw;
+  border-radius:10px 30px;
+  display:block; 
+  height: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 1px; 
+  margin-block: 2%;
+}
+#imgcaro{
+  width:11%; 
+  display:block;
+  height: auto;
+  float: right;
+  border: 1px solid white; 
+  margin: 0px 20px;
+  border-radius: 5%;
+}
