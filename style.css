@@ -238,6 +238,8 @@ h1 {
   display:block; 
   height: auto;
   font-family: 'Oswald', sans-serif;
+  padding: 1px;
+  margin-block: 2%;
   box-shadow: 1px 3px rgba(0,0,0,0.3);  
 }
 #imagencari {
