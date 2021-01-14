@@ -248,6 +248,7 @@ h1 {
   height: auto;
   float: right;
   border: 1px solid #ddd; 
+  border-radius: 4px;
   padding: 5px;
   margin: 2%;
 }
