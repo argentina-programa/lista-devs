@@ -243,7 +243,7 @@ h1 {
   box-shadow: 1px 3px rgba(0,0,0,0.3);  
 }
 #imagencari {
-  max-width:15%; 
+  max-width:12%; 
   display:block;
   height: auto;
   float: right;
