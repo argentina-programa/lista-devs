@@ -229,13 +229,23 @@ h1 {
   margin: 0px 20px;
   border-radius: 5%;
 }
+
 #cari {
   background-size: cover;
-  background-color: rgb(255, 168, 55);
+  background-color: rgb(171, 235, 198);
   border-radius: 20px;
   font-size: 3vw;
   display:block; 
   height: auto;
   font-family: 'Indie Flower', cursive;
   box-shadow: 1px 3px rgba(0,0,0,0.3);  
+}
+#imagencari {
+  width:11%; 
+  display:block;
+  height: auto;
+  float: right;
+  border: 1px solid white; 
+  margin: 0px 20px;
+  border-radius: 5%;
 }
