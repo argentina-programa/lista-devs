@@ -247,6 +247,7 @@ h1 {
   display:block;
   height: auto;
   float: right;
-  border: 1px solid white; 
+  border: 1px solid #ddd; 
+  padding: 5px;
   margin: 2%;
 }
