@@ -234,7 +234,7 @@ h1 {
   background-size: cover;
   background-color: rgb(171, 235, 198);
   border-radius: 20px;
-  font-size: 2.2vw;
+  font-size: 2.5vw;
   display:block; 
   height: auto;
   font-family: 'Oswald', sans-serif;
@@ -248,5 +248,5 @@ h1 {
   height: auto;
   float: right;
   border: 1px solid white; 
-  margin: 4%;
+  margin: 2%;
 }
