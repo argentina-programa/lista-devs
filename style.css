@@ -192,9 +192,10 @@ h1 {
 
 #seba {
   background-size: cover;
-  background-color: rgb(85, 46, 135);
-  font-size: 3vw;
+  background-color: blue;
+  font-size: 10px;
   border-radius:10px 30px;
+  border-size: 5px;
   display:block; 
   height: auto;
   font-family: Arial, Helvetica, sans-serif;
