@@ -194,20 +194,21 @@ h1 {
   background-size: cover;
   background-color: blue;
   font-size: 10px;
-  border-radius:10px 30px;
+  border-radius:20px 20px;
   border-size: 5px;
   display:block; 
   height: auto;
   font-family: Arial, Helvetica, sans-serif;
-  padding: 1px; 
+  padding: 5px; 
 }
 #imgseba {
-  max-width: 15%; 
-  display:block; 
+  width: 15%; 
+  display:block;
+  border-radius:20px;
   height: auto;
   float: right;
   border: 1px solid white; 
-  margin: 4%;  
+  margin: 5px;  
 }
 
 #caro {
