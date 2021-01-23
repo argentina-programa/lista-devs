@@ -25,6 +25,9 @@ a {
 .card.medium .card-image+.card-content,
 .card.large .card-image+.card-content {
     max-height: 100%;
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
 }
 
 .titulo {
